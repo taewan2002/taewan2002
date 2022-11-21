@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=TaeWan's%20Repo.&fontSize=90&animation=fadeIn)
 
   <h1>Introduction</h1>
-  <p>Sophomore,  CEO of DMZ, Inc, School of AI.Software, Gachon University, South Korea</p>
+  <p>CEO of DMZ, Sophomore, School of AI.Software, Gachon University, South Korea</p>
   <p>Interests: Algorithm, Web, Network, A.I., Mobile Application</p>
 
 
