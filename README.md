@@ -1,7 +1,5 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=TaeWan's%20Repo.&fontSize=90&animation=fadeIn)
-
   <h1>Introduction</h1>
   <p>CEO of DMZ, Sophomore, School of AI.Software, Gachon University, South Korea</p>
   <p>Interests: Investing stock, Algorithm, Web, Network, A.I., Mobile Application</p>
@@ -16,9 +14,6 @@
   <h1>GitHub Stats</h1> 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taewan2002&show_icons=true&theme=radical)
-
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Beyond%20the%20Limit&fontSize=90)
 
 
 </div>
