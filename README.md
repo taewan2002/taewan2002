@@ -1,5 +1,4 @@
 <div align=center>
-
   <h1>Introduction</h1>
   <p>CEO of DMZ, Sophomore, School of AI.Software, Gachon University, South Korea</p>
   <p>Interests: Investing stock, Algorithm, Web, Network, A.I., Mobile Application</p>
@@ -14,6 +13,5 @@
   <h1>GitHub Stats</h1> 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taewan2002&show_icons=true&theme=radical)
-
 
 </div>
