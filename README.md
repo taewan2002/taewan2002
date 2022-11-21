@@ -4,7 +4,7 @@
 
   <h1>Introduction</h1>
   <p>CEO of DMZ, Sophomore, School of AI.Software, Gachon University, South Korea</p>
-  <p>Interests: Algorithm, Web, Network, A.I., Mobile Application</p>
+  <p>Interests: Investing stock, Algorithm, Web, Network, A.I., Mobile Application</p>
 
 
   <h2>Solved.ac, Problem Solving Skill</h2>
