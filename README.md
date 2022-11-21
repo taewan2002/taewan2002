@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jiho%20Seo's%20Repo.&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=TaeWan's%20Repo.&fontSize=90&animation=fadeIn)
 
   <h1>Introduction</h1>
   <p>Sophomore,School of AI.Software,Gachon University,South Korea</p>
