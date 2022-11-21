@@ -1,16 +1,24 @@
-### Hi there 👋
+<div align=center>
 
-<!--
-**taewan2002/taewan2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jiho%20Seo's%20Repo.&fontSize=90&animation=fadeIn)
 
-Here are some ideas to get you started:
+  <h1>Introduction</h1>
+  <p>Sophomore,School of AI.Software,Gachon University,South Korea</p>
+  <p>Interests: Algorithm,Web,Network,A.I.,Mobile Application,,</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  <h2>Solved.ac, Problem Solving Skill</h2>
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ksdk6145)](https://solved.ac/ksdk6145)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssohye&layout=compact)](https://github.com/ssohye/github-readme-stats)
+
+  <h1>GitHub Stats</h1> 
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssohye&show_icons=true&theme=radical)
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Beyond%20the%20Limit&fontSize=90)
+
+
+</div>
