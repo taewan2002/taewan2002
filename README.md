@@ -5,7 +5,6 @@
 
 
   <h2>Solved.ac, Problem Solving Skill</h2>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=taewan2002)](https://solved.ac/taewan2002)
   
   [![Solved.ac
 Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=taewan2002)](https://solved.ac/taewan2002)
