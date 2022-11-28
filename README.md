@@ -8,7 +8,7 @@
   [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=taewan2002)](https://solved.ac/taewan2002)
   
   [![Solved.ac
-Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Profile)](https://solved.ac/Profile)
+Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=taewan2002)](https://solved.ac/taewan2002)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taewan2002&layout=compact)](https://github.com/taewan2002/github-readme-stats)
 
