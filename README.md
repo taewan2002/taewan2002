@@ -14,6 +14,6 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=taewan2002)](https://
 
   <h1>GitHub Stats</h1> 
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taewan2002&show_icons=true&theme=radical)
+  ![taewan2002's github stats](https://github-readme-stats.vercel.app/api?username=taewan2002&show_icons=true)
 
 </div>
