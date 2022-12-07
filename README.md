@@ -14,6 +14,5 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=taewan2002)](https://
   <h1>GitHub Stats</h1> 
   
   ![taewan2002's github stats](https://github-readme-stats.vercel.app/api?username=taewan2002&show_icons=true)
-  // [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taewan2002&layout=compact)](https://github.com/taewan2002)
 
 </div>
