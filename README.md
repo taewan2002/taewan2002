@@ -1,3 +1,4 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaewan2002)](https://hits.seeyoufarm.com)
 <div align=center>
   <h1>Introduction</h1>
   <p>CEO of DMZ, Sophomore, School of AI.Software, Gachon University, South Korea</p>
