@@ -12,3 +12,5 @@ KAIST 박사과정에서 시각·언어 모델, 다중 에이전트 시스템, �
 좋은 연구는 무엇을 왜 풀어야 하는지, 어떻게 검증할지를 연구자가 직접 설명할 수 있어야 한다고 생각합니다.
 
 [Website](https://taewan2002.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=p2SmaqwAAAAJ) · [LinkedIn](https://kr.linkedin.com/in/taewan02)
+
+연구 협업이나 프로젝트 제안은 [이메일](mailto:taewan2002@kaist.ac.kr)로 편하게 연락해 주세요.
