@@ -13,4 +13,4 @@ KAIST 박사과정에서 시각·언어 모델, 다중 에이전트 시스템, �
 
 [Website](https://taewan2002.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=p2SmaqwAAAAJ) · [LinkedIn](https://kr.linkedin.com/in/taewan02)
 
-연구 협업이나 프로젝트 제안은 [이메일](mailto:taewan2002@kaist.ac.kr)로 편하게 연락해 주세요.
+연구 협업 · 프로젝트 제안: taewan2002@kaist.ac.kr
